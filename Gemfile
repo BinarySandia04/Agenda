@@ -37,7 +37,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
 
   gem 'faker'
   gem 'listen', '~> 3.2'
